@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Dusty Rose Event Mktg"
+theme = "custom"
+
+[params]
+  description = "Event marketing playbook: virtual summits, webinars, trade shows and in-person event lead gen."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
