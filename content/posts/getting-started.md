@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Dusty Rose Event Mktg"
 date: 2026-06-01
 description: "Event marketing playbook: virtual summits, webinars, trade shows and in-person event lead gen."
